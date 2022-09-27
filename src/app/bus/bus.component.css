@@ -1,0 +1,30 @@
+.container{
+  width: 100%;
+  height: auto;
+}
+.images{
+  margin-top: 70px;
+}
+a{
+    display: inline-block;
+    color: #444444;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  p{
+    font-weight: bolder;
+  }
+  
+  img{
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+    border: 1px solid lightgray;
+    margin: 10px;
+    border-radius: 10px;
+  }
+  img:hover{
+  
+    border-color: #444444;
+    
+  }

@@ -1,0 +1,65 @@
+.container{
+    max-width:100%;
+    height:95vh;
+}
+.internalMatGrid{
+    /* border:1px solid red;  */
+    min-width:80%;
+    
+}
+.column1{
+    margin-top: 70px;
+}
+
+mat-grid-tile img{
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+}
+/* mat-grid-tile img :hover{
+    zoom: 40px;
+} */
+/* .column2{
+    position: absolute;
+    bottom: 50px;
+    margin: 0;
+    padding: 0;
+    
+} */
+.column2 .info{
+    position: relative;
+    bottom: 40px;
+}
+.column2 .info h1{
+    font-size: 1.7rem;
+}
+.align-top{
+    vertical-align: top !important;
+}
+.info a{
+    color: #444444;
+    font-size: 1rem;
+}
+.example-form-field {
+    margin: 0 8px 16px 0;
+}
+.datePicker{
+   float: left;
+   font-size: 20px;
+   margin-top: 20px;
+   background-color: #f5eadf;
+    border-radius: 10px;
+    color: #444444;
+    font-weight: 400;
+}
+.days{
+    position: absolute;
+    bottom: 37%;
+    left: 6%;
+
+}
+.range{
+    position: absolute;
+    bottom: 20%;
+    left: 6%;
+}

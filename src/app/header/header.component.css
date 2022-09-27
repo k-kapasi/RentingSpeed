@@ -1,0 +1,38 @@
+.header{
+    
+    padding: .7rem 0;
+    border: 1px solid #444444;
+    background-color: #444444;
+}
+img{
+    height:50px;
+    width: 60px;
+    position: absolute;
+    left: 2%;
+    image-resolution: 900;
+    align-items: center;
+    padding-bottom: 10px;
+}
+.nav-link{
+    color: #ecd4bc;
+    background-color: #444444;
+    font-family: 'DynaPuff', cursive;
+    font-size: 1rem;
+
+}
+.nav-pills .active{
+    background-color: #ecd4bc;
+    color: #444444;
+    border: none;
+    
+}
+.help{
+    position: absolute;
+    right: 2%;
+}   
+.nav-help{
+    color: whitesmoke;
+}
+
+
+
